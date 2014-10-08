@@ -3,11 +3,6 @@ body{
 	background:#00FF00;
 }
 
-h1 { 
-	font-family: ‘Metrophobic’, Arial, serif;
-	font-weight: 400; 
-}
-
 li{
 	list-style: none;
 	display: inline;
