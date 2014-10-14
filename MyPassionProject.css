@@ -4,9 +4,13 @@ h1{
 	padding-top: 20px
 }
 
+.pinktext{
+	color:#FF1493;
+}
+
 body{
 	font-family: 'Oswald', sans-serif;
-	background:#00FF00;
+	background:#ADFF2F;
 }
 
 li{
