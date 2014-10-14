@@ -1,7 +1,12 @@
+h1{
+	margin:10px;
+	text-align: center;
+	padding-top: 20px
+}
+
 body{
 	font-family: 'Oswald', sans-serif;
 	background:#00FF00;
-	text-align: center;
 }
 
 li{
@@ -21,7 +26,12 @@ li{
     width: auto;
 }
 
-.center{
-	margin: 0 auto;
-	text-align: center;
+.left{
+	margin: 10px;
+	text-align: left;
+}
+
+.justify{
+	margin: 10px;
+	text-align: justify;
 }
